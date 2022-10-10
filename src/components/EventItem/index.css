@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.item {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.button {
+  border: 0px;
+  margin-bottom: 1px;
+  background-color: transparent;
+}
+.image {
+  width: 350px;
+  height: 200px;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 20px;
+  font-weight: 500;
+}
+.paragraph1 {
+  color: #ffffff;
+  font-family: roboto;
+  font-size: 16px;
+  font-weight: 500;
+}

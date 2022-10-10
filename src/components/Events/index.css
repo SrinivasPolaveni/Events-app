@@ -1,0 +1,34 @@
+/* Write your CSS here */
+.heading {
+  color: #ffffff;
+  font-size: 35px;
+  font-family: roboto;
+}
+.container1 {
+  background-color: #323f4b;
+  padding: 20px;
+
+  background-size: cover;
+}
+.cards4 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  margin-right: 0px;
+}
+.cards1 {
+  padding: 20px;
+  background-size: cover;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+}
